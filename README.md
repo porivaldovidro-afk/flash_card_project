@@ -44,7 +44,7 @@ pip install pandas
 
 ### Clonar o Repositório
 ```bash
-git clone https://github.com
+git clone git@github.com:porivaldovidro-afk/flash_card_project.git
 cd flashcard_project
 ```
 
@@ -53,13 +53,13 @@ cd flashcard_project
 python main.py
 ```
 
-## 🎮 Como Utilizar
+## Como Utilizar
 
 1. Assim que a aplicação iniciar, verás a frente de um cartão com uma palavra aleatória no idioma de estudo.
 2. Aguarda 3 segundos para que o cartão mude de cor e revele a tradução correspondente.
 3. Se já sabias o significado da palavra, clica no botão verde (✓). Ela não voltará a aparecer.
 4. Se não sabias, clica no botão vermelho (✗). A palavra continuará na tua lista de estudo para as próximas sessões.
 
-## 📝 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Consulta o ficheiro `LICENSE` para obter mais detalhes.
