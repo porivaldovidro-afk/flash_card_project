@@ -44,7 +44,7 @@ pip install pandas
 
 ### Clonar o Repositório
 ```bash
-git clone git@github.com:porivaldovidro-afk/flash_card_project.git
+git clone [git@github.com:porivaldovidro-afk/flash_card_project.git](https://github.com/porivaldovidro-afk/flash_card_project.git)
 cd flashcard_project
 ```
 
